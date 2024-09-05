@@ -1,0 +1,6 @@
+
+train: /content/datasetecuador/datasetecuador/images/train
+val: /content/datasetecuador/datasetecuador/images/val
+
+nc: 5
+names: ['condorandino', 'iguanamarina', 'lobomarino', 'pinzondarwin', 'tortugagigante']
